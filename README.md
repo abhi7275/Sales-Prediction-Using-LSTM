@@ -1,1 +1,1 @@
-# Store-Deman-Forecasting
+# Store-Demand-Forecasting
